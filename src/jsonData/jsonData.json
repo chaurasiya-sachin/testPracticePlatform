@@ -1,0 +1,143 @@
+[
+    
+    {
+        "id": 1,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-1.mp3",
+        "correct_answer": "Thank you for calling Amazon.",
+        "answer": ""
+    },
+    {
+        "id": 2,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-2.mp3",
+        "correct_answer": "We will assist you with your order inquiry.",
+        "answer": ""
+    },
+    {
+        "id": 3,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-3.mp3",
+        "correct_answer": "I have successfully updated your delivery address.",
+        "answer": ""
+    },
+    {
+        "id": 4,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-4.mp3",
+        "correct_answer": "I apologize for the inconvenience caused during the checkout process.",
+        "answer": ""
+    },
+    {
+        "id": 5,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-5.mp3",
+        "correct_answer": "Your order will arrive within the next 3 business days.",
+        "answer": ""
+    },
+    {
+        "id": 6,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-6.mp3",
+        "correct_answer": "Let me assist you in finding a solution.",
+        "answer": ""
+    },
+    {
+        "id": 7,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-7.mp3",
+        "correct_answer": "Your account has been successfully verified.",
+        "answer": ""
+    },
+    {
+        "id": 8,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-8.mp3",
+        "correct_answer": "Thank you for your patience, we are processing your request.",
+        "answer": ""
+    },
+    {
+        "id": 9,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-9.mp3",
+        "correct_answer": "Please check your email for a confirmation of your refund.",
+        "answer": ""
+    },
+    {
+        "id": 10,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-10.mp3",
+        "correct_answer": "The issue has been escalated to a higher level of support.",
+        "answer": ""
+    },
+    {
+        "id": 11,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-11.mp3",
+        "correct_answer": "We are processing your return and will notify you once it's complete.",
+        "answer": ""
+    },
+    {
+        "id": 12,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-12.mp3",
+        "correct_answer": "A confirmation will be sent to you shortly.",
+        "answer": ""
+    },
+    {
+        "id": 13,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-13.mp3",
+        "correct_answer": "Please feel free to contact us for further assistance.",
+        "answer": ""
+    },
+    {
+        "id": 14,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-14.mp3",
+        "correct_answer": "We value your feedback and are here to help you.",
+        "answer": ""
+    },
+    {
+        "id": 15,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-15.mp3",
+        "correct_answer": "We are working to resolve the issue at the earliest.",
+        "answer": ""
+    },
+    {
+        "id": 16,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-16.mp3",
+        "correct_answer": "You can expect the refund in 5-7 business days.",
+        "answer": ""
+    },
+    {
+        "id": 17,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-17.mp3",
+        "correct_answer": "Your request is currently under review by our team.",
+        "answer": ""
+    },
+    {
+        "id": 18,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-18.mp3",
+        "correct_answer": "We appreciate your cooperation and are dedicated to resolving the issue.",
+        "answer": ""
+    },
+    {
+        "id": 19,
+        "question": "this assessment consist of audio files",
+        "questionAudio": "../../public/audio/question-19.mp3",
+        "correct_answer": "We are processing the cancellation request for your order.",
+        "answer": ""
+    },
+    {
+        "id": 20,
+        "question": "This has problem skip it",
+        "questionAudio": "",
+        "correct_answer": "Please expect an update from us shortly regarding the resolution.",
+        "answer": ""
+    }
+]

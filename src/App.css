@@ -1,0 +1,24 @@
+.app-container{
+    margin: 0 auto;
+    width: 1280px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.main{
+    border: 2px solid red;
+    height: 200px;
+    background-color: white;
+    margin: auto 0px;
+}
+
+.nextButtonDiv{
+    right: 0;
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    border-radius: 15px;
+
+}

@@ -1,0 +1,27 @@
+.testComponent{
+    width: 100%;
+    height: 100%;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+
+
+}
+
+.left,.right{
+    border-right: 1px solid black;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.right input{
+    width: 70%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
