@@ -3,14 +3,14 @@
     {
         "id": 1,
         "question": "this assessment consist of audio files",
-        "questionAudio": "../../public/audio/question-1.mp3",
+        "questionAudio": "/audio/question-1.mp3",
         "correct_answer": "Thank you for calling Amazon.",
         "answer": ""
     },
     {
         "id": 2,
         "question": "this assessment consist of audio files",
-        "questionAudio": "../../public/audio/question-2.mp3",
+        "questionAudio": "/public/audio/question-2.mp3",
         "correct_answer": "We will assist you with your order inquiry.",
         "answer": ""
     },
@@ -129,7 +129,7 @@
     {
         "id": 19,
         "question": "this assessment consist of audio files",
-        "questionAudio": "../../public/audio/question-19.mp3",
+        "questionAudio": "/audio/question-19.mp3",
         "correct_answer": "We are processing the cancellation request for your order.",
         "answer": ""
     },
